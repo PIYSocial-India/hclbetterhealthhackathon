@@ -10,7 +10,7 @@ A smart bot which is built with UV-C lights to eradicate the corona virus laying
 
 ## Intoduction
 
-UV-C is a room disinfection device based in Ultraviolet-C radiation. It offers the capacity to be remotely programmed using an Android mobile device and it has an infrared detection security system that turns off the system when triggered.
+UV-Bot is a room disinfection device based in Ultraviolet-C radiation. It offers the capacity to be remotely programmed using an Android mobile device and it has an infrared detection security system that turns off the system when triggered.
 
 The sanitizing method employed by this device affects a very wide range of microorganisms and it has several advantages respect to chemical based-sanitizing methods.
 
