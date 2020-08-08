@@ -4,23 +4,23 @@
 
 ----------------------
 
-## UV-Bot
+# UV-Bot
 
 A smart bot which is built with UV-C lights to eradicate the corona virus laying around.
 
-### Intoduction
+## Intoduction
 
 UV-C is a room disinfection device based in Ultraviolet-C radiation. It offers the capacity to be remotely programmed using an Android mobile device and it has an infrared detection security system that turns off the system when triggered.
 
 The sanitizing method employed by this device affects a very wide range of microorganisms and it has several advantages respect to chemical based-sanitizing methods.
 
-### Theory
+## Theory
 
 **_UV-C radiation inactivates microorganisms causing DNA damage by producing cyclobutane pyrimidine dimers (CPDs), altering DNA structure, and thus interfering with DNA replication._**
 
 UV-C (100-280 nm) light, which is absorbed by the atmosphere, represents the most lethal wavelength for a wide spectrum of microorganisms. The maximum germicidal power of the ultraviolet radiation is at wavelengths near 260 nm and it drops dramatically below 230 or above 300 nm.
 
-### Hardware Description
+## Hardware Description
 
 - For UV-C Radiator device : a microcontroller board, an Arduino UNO board.
 
@@ -30,7 +30,7 @@ UV-C (100-280 nm) light, which is absorbed by the atmosphere, represents the mos
 
 - In addition, the equipment can be operated from a wide range of Android mobile devices with suitable screens and processing capacity (tablet, cell phone, etc).
 
-### Build of the UV-Bot
+## Build of the UV-Bot
 
 The construction of the device involved three stages:
 
@@ -56,7 +56,7 @@ Finally, a mobile application was developed to control the disinfecting unit.
 This app was designed using the MIT app inventor 2 tool.
 The interface of this application is used for connection to the device via Bluetooth, and for controlling the robot wirelessly.
 
-### Working
+## Working
 
 The dosage values can be used to estimate the required exposure time according to the following simplified method:
 
@@ -74,10 +74,10 @@ Using this method, a tool to estimate the minimum exposure time to reach the des
 
 The bot can be controlled through the mobile app by bluetooth connection. The realtime video feed helps the driver to control the  bot from another room or a control station so that the user doesn't get exposed to UV radiation.
 
-### Conclusion
+## Conclusion
 
 An UV-C room disinfection device was made with similar functions to proprietary commercial systems. The presented model can be easily scaled up, modifying its structure (adding more UV-C lamps) and programming (editing the open source code of the Arduino board and/or of the Android application), achieving savings for more than 80% respect to the price of similar proprietary commercial equipment.
 
 ----------------------
 
-#### Team: [Click Here](https://github.com/orgs/PIYSocial-India/teams/hcl-better-health-hackathon)
+### Team: [Click Here](https://github.com/orgs/PIYSocial-India/teams/hcl-better-health-hackathon)
