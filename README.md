@@ -2,7 +2,24 @@
 
 # HCL Better Health Hackathon [Link](https://hclbetterhealth-platform.bemyapp.com/#/event)
 
-#### Team: [Click Here](https://github.com/orgs/PIYSocial-India/teams/hcl-better-health-hackathon)
+# CoGate
+Wearing mask, please enter!
+
+    A smart AI-based gate which will open if the person will be wearing the mask with a sanitizing pathway based on 
+    liquid sanitizing for humans and UV sanitization for electronic gadgets.
+
+## Introduction
+There is widespread Corona Virus in the entire world and we have no solution rather have precautions and wearing masks is one of the essential. Since we found many people are entering without the mask to offices so I made this project.
+As per the problem, we have come with an excellent solution which will solve this problem.
+Introducing CoGate, a smart AI-based gate that will only allow those who will be wearing masks and not allow who are not having masks.
+
+## CoGate: How it works?
+- **The AI-based Gate**: The gate is based on realtime Computer Vision and Machine Learning. It is built with a camera that is connected with Google's Teachable Machine Image processing platform. The camera will detect whether the person is wearing a mask or not. If the person will be wearing the mask then it will send the signal to open the gate, to the microcontroller (here, Arduino) via Serial Port Interface (we are using p5 Serial Port). If the person will not be wearing a mask then the gate will not open.
+
+- **The UV & Sanitizing Chambers**:The pathway of CoGate will also have a sanitizing chamber, of liquid for humans and a UV sanitizing chamber for electronic gadgets, and at the last, there'll be another gate to let the person enter into the office/building.
+
+- **The crowd controller**: The last gate can be used as a counter (in malls especially) to enter a particular number of people to avoid crowds over that place.
+
+
 ----------------------
-// #### Bronch Name: Gate
-// #### For Sanket Sanjeeb Pattanaik and Saswat Samal
+
