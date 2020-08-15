@@ -1,7 +1,15 @@
-![Image](https://res.cloudinary.com/ideation/image/upload/w_1920,c_fit,q_auto,f_auto,dpr_auto/clwsjzcwr5jo1wm5kngg)
+![Image](https://github.com/rajkaranswain/hclbetterhealthhackathon/blob/master/images/POST%20COVID%20PROTECTION.png)
 
 # POST COVID PROTECTION
 As the process of Unlocking continues, we are moving towards more normal ways of lives. This presents us with the same situation as before lockdown, the need to contain the widespread of Corona Virus in working environments and public places. We have come up with a solution that is more effective to maintain all the required sanitization practices and social distancing norms in the public gathering places, malls and offices.
+
+# Check the sub parts of our project:
+
+![Image](https://github.com/rajkaranswain/hclbetterhealthhackathon/blob/master/images/cogate.png) | ![Image](https://github.com/rajkaranswain/hclbetterhealthhackathon/blob/master/images/social.png) | ![Image](https://github.com/rajkaranswain/hclbetterhealthhackathon/blob/master/images/bot.png)
+------------ | ------------- | -------------
+[COGATE](https://github.com/PIYSocial-India/hclbetterhealthhackathon/tree/gate) | [Social Distancing Detector](https://github.com/PIYSocial-India/hclbetterhealthhackathon/tree/crowddetection) | [UV Bot](https://github.com/PIYSocial-India/hclbetterhealthhackathon/tree/UVbot)
+
+
 # ISSUE
 
 As the process of Unlocking continues, we are moving towards more normal ways of lives. This presents us with the same situation as before lockdown, the need to contain the widespread of Corona Virus in working environments and public places. But this time we are at an advantage with all the healthy sanitization practices and social distancing norms.  Still we need to come up with more potent methods of disinfection and sterilization if we are to get our lives back to full normal. And also stricter methods to make the people abide by the various social distancing norms put in place. We have come up with a solution that is more effective to maintain all the required sanitization practices and social distancing norms in the public gathering places, malls and offices.
@@ -34,4 +42,5 @@ Sanket Sanjeeb Pattanaik | Raj Karan Swain
 ------------ | -------------
 Gate-Hardware | Social Distancing-Software
 
-
+## Submitted at
+![Image](https://res.cloudinary.com/ideation/image/upload/w_1920,c_fit,q_auto,f_auto,dpr_auto/clwsjzcwr5jo1wm5kngg)
